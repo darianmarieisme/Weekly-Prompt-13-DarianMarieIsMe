@@ -7,3 +7,12 @@ In fact, in most of the code provided in the book, triple-quoted strings have be
 provided for modules, methods, functions and classes. 
 Discuss how these docstrings help programmers with their workflow. 
 Remember your experience and the internet are your friends.
+
+
+Doc strings are used to help provide data for code that will help in the process of programming. 
+Doc strings can be used to label a function, describe its arguments and parameters in situations
+where you may need a quick reference. Doc strings are different from
+comments because doc strings are stored in the program's metadata; often
+compatible with major IDE's for help with typehints and autocompletion hints. Docstrings help me
+because when I type out what a block of code does, what it returns, and any parameters that are
+necessary it helps me follow what I have programmed and associate functions to a language I'm learning.
